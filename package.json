@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/sheplu/eslint-config-testing-library/issues"
   },
-  "homepage": "https://github.com/sheplu/eslint-config-testing-library#readme"
+  "homepage": "https://github.com/sheplu/eslint-config-testing-library#readme",
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "testing-library.js"
+  ]
 }
