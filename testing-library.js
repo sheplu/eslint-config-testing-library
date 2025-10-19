@@ -1,4 +1,4 @@
-export default [
+export const testingLibraryRules = [
 	{
 		rules: {
 			"testing-library/await-async-events": [
