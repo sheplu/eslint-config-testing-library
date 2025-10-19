@@ -11,7 +11,7 @@
     "url": "git+https://github.com/sheplu/eslint-config-testing-library.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jean Burellier",
   "license": "MIT",
   "type": "module",
   "bugs": {
