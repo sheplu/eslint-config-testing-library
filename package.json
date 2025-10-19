@@ -10,7 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/sheplu/eslint-config-testing-library.git"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "linter",
+    "styleguide",
+    "javascript",
+    "code-style",
+    "testing-library",
+    "react",
+    "eslint-testing-library",
+    "react-testing-library",
+    "sheplu"
+  ],
   "author": "Jean Burellier",
   "license": "MIT",
   "type": "module",
