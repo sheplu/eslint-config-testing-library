@@ -1,0 +1,21 @@
+{
+  "name": "@sheplu/eslint-config-testing-library",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheplu/eslint-config-testing-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sheplu/eslint-config-testing-library/issues"
+  },
+  "homepage": "https://github.com/sheplu/eslint-config-testing-library#readme"
+}
